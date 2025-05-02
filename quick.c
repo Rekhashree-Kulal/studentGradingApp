@@ -2,6 +2,7 @@
 #include<sys/time.h>
 #include<stdlib.h>
 
+//swapping the numbers
 void swap(int *x,int *y)
 {
     int tmp;
