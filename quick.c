@@ -95,7 +95,7 @@ int main()
             printf("\n");
             break;
 
-            default:printf(""Invalid choice");
+            default:printf("Invalid choice");
                 exit(0);
         }
     }
